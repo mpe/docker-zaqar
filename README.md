@@ -1,6 +1,8 @@
 Dockerized zaqar
 ================
 
+**OUT OF DATE.**
+
 https://github.com/openstack/zaqar
 
 Uses wsgi and sqlite.
